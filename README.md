@@ -1,7 +1,7 @@
-# HR-Analytics-Dashboard-using-Tableau-
+# HR-Analytics-Dashboard-using-Tableau
 An interactive Tableau dashboard analyzing employee attrition, demographics, job satisfaction, and department-wise insights to support HR decision-making.
 
-# HR Analytics Dashboard (Tableau)
+---
 
 ## 📊 Project Overview
 This project focuses on analyzing HR data to understand employee attrition, workforce distribution, and job satisfaction across departments and roles. The interactive Tableau dashboard helps HR teams and management identify key trends and take data-driven decisions to improve employee retention and satisfaction.
@@ -41,6 +41,14 @@ This project focuses on analyzing HR data to understand employee attrition, work
 
 ---
 
+## 🔎 Key Insights
 
-🔗 GitHub: https://github.com/linumolk  
-🔗 LinkedIn: (add your LinkedIn link here)
+- The overall **attrition rate is 17.01%**, with **150 employees** leaving out of **882 total employees**, indicating a moderate retention challenge.
+- **R&D department** experiences the **highest attrition (56.12%)**, followed by **Sales (38.82%)**, suggesting department-specific retention issues.
+- **Male employees show higher attrition** compared to female employees, indicating a potential gender-based trend in employee turnover.
+- Employees with **Life Sciences and Medical backgrounds** contribute the most to attrition, highlighting the need for targeted engagement strategies for these groups.
+- **Sales Executive and Research Scientist roles** have the highest number of active employees, making them critical roles for workforce stability.
+- **Job satisfaction levels 3 and 4** are more common among Research Scientists and Sales Executives, whereas lower satisfaction levels are noticeable in certain support roles.
+- The average employee age is **37 years**, suggesting attrition may be influenced by mid-career transitions.
+
+
