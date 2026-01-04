@@ -37,7 +37,7 @@ This project focuses on analyzing HR data to understand employee attrition, work
 ---
 
 ## 🖼 Dashboard Preview
-![HR Analytics Dashboard](HR Analytics Dashboard - Tableau.png)
+![ER Diagram](HR_Analytics_Dashboard-Tableau.png).
 
 ---
 
